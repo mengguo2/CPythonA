@@ -17,4 +17,6 @@ Happy for opportunities you might have! mengguo2@illinois.edu
 
 [mengguo_monica@foxmail.com](mailto:mengguo_monica@foxmail.com)
 
-[link]: www.linkedin.com/in/meng-monica-guo "Find me on LinkedIn"
+### Find me on LinkedIn
+
+[www.linkedin.com/in/meng-monica-guo](www.linkedin.com/in/meng-monica-guo)
