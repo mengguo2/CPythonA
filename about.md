@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
@@ -16,3 +16,7 @@ Happy for opportunities you might have! mengguo2@illinois.edu
 ### Contact me
 
 [mengguo_monica@foxmail.com](mailto:mengguo_monica@foxmail.com)
+
+### Find me on LinkedIn
+
+www.linkedin.com/in/meng-monica-guo
