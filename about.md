@@ -19,4 +19,4 @@ Happy for opportunities you might have! mengguo2@illinois.edu
 
 ### Find me on LinkedIn
 
-www.linkedin.com/in/meng-monica-guo
+[link]: www.linkedin.com/in/meng-monica-guo
