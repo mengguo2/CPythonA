@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+MSA Student at U of I; interested in auditing and advisory; expected to graduate in May 2018.
 
-### More Information
+Experienced: past internships in OTC Marketing, Finance, and Assurance departments.
+Striving for innovation: learning to apply Python within accountancy.
+Enthusiastic in taking initiative: volunteered in Sri Lanka to teach English and Math; presently providing Chinese tutoring voluntarily to an American student.
+Bilingual: Native Mandarin speaker with professional English proficiency.
 
-A place to include any other types of information that you'd like to include about yourself.
+Happy for opportunities you might have! mengguo2@illinois.edu
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mengguo_monica@foxmail.com](mailto:mengguo_monica@foxmail.com)
