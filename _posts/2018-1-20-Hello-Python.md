@@ -50,19 +50,19 @@ Output:
 ```
 
 ### list (list)
-Lists are ...
+A list is used to store an indexed list of items.
+The items can be numbers and strings. 
+A list can be used in pandas to subselect items from tables and it works like vlookup() fuction in Excel.
 ```python
-alist = []
-```
-If you add an integer with a float, let's see what happens!
-```python
-afloat = 1.25
-aafloat = afloat + 2
-print(aafloat)
+alist = [1, 2, 3]
+alist1 = ['hello', 'world', '!']
+print(alist1[1])
+print(alist1[1:])
 ```
 Output:
 ```python
-3.25
+world
+['world', '!']
 ```
 
 ### tuple (tuple)
