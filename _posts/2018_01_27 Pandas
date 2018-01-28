@@ -1,3 +1,9 @@
 Learn with Pandas
 dataframe.dropna()  # drop all NaN in the table, but also accidentially drop columns with both NaN and numbers
 dataframe.fillna(0)  # instead of dropna, use fillna to replace na with 0
+dataframe.drop('columns name', axis=1)  # drop the column
+
+# for multilevel columns
+df=pd.DataFrame({'a':[1,2,3],'b':[4,5,6]})
+columns=[('c','a'),('c','b')]
+df.columns=pd.MultiIndex.from_tuples(columns)
